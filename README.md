@@ -2,8 +2,14 @@
 
 A lightweight repository intelligence engine that uses structural code analysis — not embeddings — to determine change impact and execution workflows in Python codebases, exposed through MCP.
 
-# Streamlit Link : https://manaswinigupta-repoimpact--mcp-tool-for-re-repoimpactapp-41rlpy.streamlit.app/
 
+### Streamlit App
+
+[🚀 Try the Live Streamlit App](https://manaswinigupta-repoimpact--mcp-tool-for-re-repoimpactapp-41rlpy.streamlit.app/)
+
+<p align="center">
+  <img src="./streamlit.gif" alt="RepoImpact Streamlit Demo" width="600">
+</p>
 # Demo
 
 <p align="center">
