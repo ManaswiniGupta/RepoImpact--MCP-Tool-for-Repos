@@ -8,8 +8,9 @@ A lightweight repository intelligence engine that uses structural code analysis 
 [🚀 Try the Live Streamlit App](https://manaswinigupta-repoimpact--mcp-tool-for-re-repoimpactapp-41rlpy.streamlit.app/)
 
 <p align="center">
-  <img src="./streamlit.gif" alt="RepoImpact Streamlit Demo" width="600">
+  <img src="./streamlit.png" alt="RepoImpact Streamlit Demo" width="600">
 </p>
+
 # Demo
 
 <p align="center">
