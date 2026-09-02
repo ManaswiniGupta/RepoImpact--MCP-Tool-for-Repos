@@ -4,6 +4,10 @@ A lightweight repository intelligence engine that uses structural code analysis 
 
 # Demo
 <p align="center">
+  <img src="./demo2.mp4" alt="RepoImpact Demo1 " width="600">
+</p>
+
+<p align="center">
   <img src="./demo.gif" alt="RepoImpact Demo" width="600">
 </p>
 
