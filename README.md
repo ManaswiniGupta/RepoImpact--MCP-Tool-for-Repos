@@ -4,11 +4,9 @@ A lightweight repository intelligence engine that uses structural code analysis 
 
 # Demo
 <p align="center">
-  <img src="./demo.gif" alt="RepoImpact Demo" width="900">
+  <img src="./demo.gif" alt="RepoImpact Demo" width="600">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ManaswiniGupta/RepoImpact--MCP-Tool-for-Repos/main/demo.gif" alt="RepoImpact Demo" width="900">
-</p>
+
 
 ## The problem
 
