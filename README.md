@@ -13,9 +13,9 @@ A lightweight repository intelligence engine that uses structural code analysis 
 
 # Demo
 
-<p align="center">
+<!-- <p align="center">
   <img src="./demo.gif" alt="RepoImpact Demo" width="600">
-</p>
+</p> -->
 
 [▶ Watch Full Demo](./demo2.mp4)
 <!-- <p align="center">
