@@ -3,7 +3,12 @@
 A lightweight repository intelligence engine that uses structural code analysis — not embeddings — to determine change impact and execution workflows in Python codebases, exposed through MCP.
 
 # Demo
-<img src="demo.gif" alt="RepoImpact Demo" width="900"/>
+<p align="center">
+  <img src="./demo.gif" alt="RepoImpact Demo" width="900">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManaswiniGupta/RepoImpact--MCP-Tool-for-Repos/main/demo.gif" alt="RepoImpact Demo" width="900">
+</p>
 
 ## The problem
 
