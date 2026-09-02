@@ -181,4 +181,3 @@ tests/                 # pytest suite (99 tests)
 plan.md                # the full design specification this was built from
 ```
 
-See `plan.md` for the complete specification, including the resolution algorithm, indexing pipeline, and the phase-by-phase build order this project followed.
